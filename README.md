@@ -1,4 +1,4 @@
-# API-REST-PT-BR# API-REST DESENVOLVIDO COM LARAVEL 6.x
+# API-REST DESENVOLVIDO COM LARAVEL 6.x
 de compartilhamento de recursos de origem cruzada, possui um sistema de registro e autenticação de usuários e um crud de produtos completo, tudo isso
 pronto para usado, possui as tradução para pt-BR, routes, controllers, models, notifications com envio de emails e as migrations.
 
