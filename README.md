@@ -8,7 +8,9 @@ Instalação
 
 $ git clone https://github.com/RodrigoAntonioCruz/API-REST-PT-BR.git
 
-Configure seu arquivo .ENV 
+$ composer update
+
+configure seu arquivo .ENV 
 
 $ php artisan migrate
 
