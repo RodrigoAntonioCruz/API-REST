@@ -20,3 +20,6 @@ Versão do PHP
 
 7.4.1
 
+# ROTAS DA API (OBS: TODAS ROTAS FORAM TESTADAS COM POSTMAN)
+
+![alt text](http://servidor.rodrigodacruz.com.br/rotas.png)
