@@ -21,9 +21,3 @@ Versão do Laravel
 Versão do PHP
 
 7.4.1
-
-# Rotas da Api-Rest 
-
-Obs: Todas as rotas foram testadas e validadas, a ferramenta de testes foi o Postman.
-
-![alt text](http://servidor.rodrigodacruz.com.br/rotas.png)
